@@ -26,7 +26,7 @@ When complete, this project will have Python implementations for all the pseudoc
 # Python 3.7 and up
 
 The code for the 3rd edition was in Python 3.5; the current 4th edition code is in Python 3.7. It should also run in later versions, but does not run in Python 2. You can [install Python](https://www.python.org/downloads) or use a browser-based Python interpreter such as [repl.it](https://repl.it/languages/python3).
-You can run the code in an IDE, or from the command line with `python -i filename.py` where the `-i` option puts you in an interactive loop where you can run Python functions. All notebooks are available in a [binder environment](http://mybinder.org/repo/aimacode/aima-python). Alternatively, visit [jupyter.org](http://jupyter.org/) for instructions on setting up your own Jupyter notebook environment.
+You can run the code in an IDE, or from the command line with `python -i filename.py` where the `-i` option puts you in an interactive loop where you can run Python functions. All notebooks are available in a [binder environment](http://mybinder.org/repo/aimacode/aima-python). Alternatively, visit [jupyter.org](http://jupyter.org/) for instructions on setting up your own Jupyter notebook environment.Recommended Version of python is 3.7 to get most out of it
 
 Features from Python 3.6 and 3.7 that we will be using for this version of the code:
 - [f-strings](https://docs.python.org/3.6/whatsnew/3.6.html#whatsnew36-pep498): all string formatting should be done with `f'var = {var}'`, not with `'var = {}'.format(var)` nor `'var = %s' % var`.
